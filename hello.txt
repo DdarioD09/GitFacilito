@@ -1,1 +1,2 @@
-Hello worldg
+Hello world
+This is a new repository incluided from git
